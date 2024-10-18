@@ -48,6 +48,6 @@ I am a CS Student from Germany.
 ---
 
 ### :fire: My Stats :
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Capetownvisitor&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Capetownvisitor&theme=dark)](https://git.io/streak-stats)
+
