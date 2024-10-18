@@ -49,5 +49,5 @@ I am a CS Student from Germany.
 
 ### :fire: My Stats :
 <div>
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Capetownvisitor&theme=dark&background=000000)](https://git.io/streak-stats)" title="Stats" alt="My Github Stats" width="40" height="40"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Capetownvisitor&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
