@@ -38,13 +38,13 @@ I am a CS Student from Germany.
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=flask&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=flask,express&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,appwrite)
 
 ---
 
