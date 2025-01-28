@@ -32,19 +32,19 @@ I am a CS Student from Germany.
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,java,swift,kotlin)
+![Languages](https://skillicons.dev/icons?i=c,cs,cpp,js,python,java)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=flask&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,)
 
 ---
 
